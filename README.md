@@ -4,7 +4,7 @@ HR analytics for retiring employees
 ## Overview and Purpose of Analysis
 Pewlett-Hackard will soon have a multitude of employees retiring from the company, leaving a large amount of vacancies to be filled. In preparation for this "silver tsunami," Pewlett-Hackard has asked me to provide some analysis that will help them get ahead of the curve. The company wants to know what employees are eligible for retirement, and what titles will become vacant soon. Furthermore, a mentorship program has been initiated with the hopes of providing mentoring to incoming employees from retiring employees. With this program, the mentoring employees can stay on part time to ensure that the new hires are comfortable and successful in their role.
 
-I started this project with six excel spreadsheets containing various information about the company's employees and departments. The first step I took towards analysis was to create an entity relationship diagram (ERD) showing how the six spreadsheets were connected (fig.1). I used this ERD throughout my analysis as guide. 
+I started this project with six excel spreadsheets containing various information about the company's employees and departments. The first step I took towards analysis was to create an entity relationship diagram (ERD) showing how the six spreadsheets were connected (fig.1). I used this ERD throughout my analysis as a guide. 
 
 ###### (Fig. 1) Employee ERD
 
